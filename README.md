@@ -1,6 +1,6 @@
 # 📝 시(詩)를 찾아서
 
-![금지구역](https://github.com/user-attachments/assets/570c240b-4260-4c9f-938d-be0096d7be6c)
+![깃허브이미지](https://github.com/user-attachments/assets/fb9ec11b-6e15-4215-999b-7227b813b497)
 
 > 가천대학교 2025학년도 한국어문학과 P-실무 프로젝트 결과물 (담당: 전성규)
 - 이름: 시(詩)를 찾아서
